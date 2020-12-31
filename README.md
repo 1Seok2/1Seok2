@@ -8,6 +8,7 @@
 - Web/Cross-Platform Frontend Engineer in Start-Up(Warehouse-sharing platform)
 
 ### Interest
+- [Typescript](https://github.com/microsoft/TypeScript)
 - [React Js](https://github.com/facebook/react)
 - [React-Native Js](https://github.com/facebook/react-native)
 
