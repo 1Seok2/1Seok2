@@ -5,7 +5,7 @@
 </div>
 
 ### Web Frontend Engineer
-- Web/Cross-Platform Frontend Engineer in Start-Up(Warehouse-sharing platform)
+- Web/Cross-Platform Frontend Engineer in Start-Up
 
 ### Interest
 - [Typescript](https://github.com/microsoft/TypeScript)
