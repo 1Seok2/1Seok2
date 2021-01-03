@@ -20,3 +20,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/goesnow_sti/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:goesnow831@gmail.com)
 </div>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1Seok2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Seok2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
