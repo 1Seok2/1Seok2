@@ -4,9 +4,10 @@
 - Web/Cross-Platform Frontend Engineer in ROK
 
 ### Interest
-- [Typescript](https://github.com/microsoft/TypeScript)
-- [React Js](https://github.com/facebook/react)
-- [React-Native Js](https://github.com/facebook/react-native)
+
+<div>
+    <img src="https://user-images.githubusercontent.com/49581472/107733577-ad6e0280-6d3e-11eb-9681-cdec5cf795d6.png" style="width:100%;max-width:480px;" />
+</div>
 
 <div align=center>
 
