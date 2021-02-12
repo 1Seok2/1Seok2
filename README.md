@@ -6,7 +6,7 @@
 ### Interest
 
 <div style="margin-bottom:40px;">
-    <img src="https://user-images.githubusercontent.com/49581472/107733577-ad6e0280-6d3e-11eb-9681-cdec5cf795d6.png" width="200px" />
+    <img src="https://user-images.githubusercontent.com/49581472/107733577-ad6e0280-6d3e-11eb-9681-cdec5cf795d6.png" width="400px" />
 </div><br/><br/><br/>
 
 <div align=center>
