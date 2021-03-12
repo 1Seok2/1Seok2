@@ -10,11 +10,14 @@
     <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp;
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp; 
+    <br/>
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp; 
+    <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 </p>
 
 <br>
