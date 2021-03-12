@@ -1,22 +1,33 @@
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=WonseogChoi&fontSize=70&animation=twinkling)
 
 ### Web Frontend Engineer
 - Web/Cross-Platform Frontend Engineer in ROK
 
-### Interest
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<div style="margin-bottom:40px;">
-    <img src="https://user-images.githubusercontent.com/49581472/107733577-ad6e0280-6d3e-11eb-9681-cdec5cf795d6.png" width="400px" />
-</div><br/><br/><br/>
+<p align="center">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp; 
+    <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp; 
+    <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp; 
+</p>
 
-<div align=center>
+<br>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://www.notion.so/STUDY-21f3c43ad88c4963b1cad764c9b2e493) 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCOJCBzQSsbu0ulzQwGroT7A) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100004723567545) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/goesnow_sti/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:goesnow831@gmail.com)
-</div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1Seok2)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Seok2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Seok2&layout=compact"/>
+    <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=1Seok2"/></a>&nbsp;</a>&nbsp;
+</p>
+
+<p align="center">
+  <a href="https://goeslog.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://goeslog.github.io"/></a>&nbsp
+  <a href="https://www.instagram.com/goesnow_sti/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/goesnow_sti/"/></a>&nbsp
+  <a href="mailto:goesnow831@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com"/></a>
+</p>
