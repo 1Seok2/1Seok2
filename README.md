@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp; 
+    <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp; 
     <br/>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp; 
