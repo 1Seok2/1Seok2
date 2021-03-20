@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=WonseogChoi&fontSize=70&animation=twinkling)
 
 ### Web Frontend Engineer
-- Web/Cross-Platform Frontend Engineer in ROK
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
