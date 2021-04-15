@@ -23,8 +23,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=1Seok2"/></a>&nbsp;</a>&nbsp;
 </p>-->
 
- <p align="center">
+### My Tech Blog 👀
+
+ <p align="left">
   <a href="https://1seok2.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://goeslog.github.io"/></a>&nbsp
-  <a href="https://www.instagram.com/goesnow_sti/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/goesnow_sti/"/></a>&nbsp
-  <a href="mailto:goesnow831@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com"/></a>
 </p> 
