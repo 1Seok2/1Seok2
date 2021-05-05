@@ -16,14 +16,12 @@
 </p>
 <br>
 
-<!-- <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Seok2&layout=compact"/>
-    <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=1Seok2"/></a>&nbsp;</a>&nbsp;
-</p>-->
-
 ### My Tech Blog 👀
 
  <p align="left">
   <a href="https://1seok2.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://goeslog.github.io"/></a>&nbsp
 </p> 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1seok2&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1seok2&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1seok2&theme=vue)
